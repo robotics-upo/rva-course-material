@@ -13,9 +13,9 @@ https://jupyter.org
 
 The videos explaining the execution of the different notebooks can be accessed through the online classroom system https://aulavirtual.upo.es
 
-# Homework 1
+## Homework 1
 
-Execute the notebook learning-imageclassification.iypnb
+Execute the notebook [learning_imageclassification.ipynb](https://github.com/robotics-upo/rva-course-material/blob/master/deeplearningbasics/learning_imageclassification.ipynb)
 
 Modify the network (changing the architecture) and training parameters to achieve at least an accuracy of 75% in the test set. 
 
@@ -23,9 +23,9 @@ Consider longer periods for training and additional layers. Include dropout laye
 
 
 
-# Homework 2
+## Homework 2
 
-Execute and understand the notebook deploying-imageclassification.iypnb
+Execute and understand the notebook [deploying-imageclassification.iypnb](https://github.com/robotics-upo/rva-course-material/blob/master/deeplearningbasics/deploying-imageclassification.iypnb)
 
 Improve the module to detect as many cars as possible in the image test.jpg. 
 
