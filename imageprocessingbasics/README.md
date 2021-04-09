@@ -14,15 +14,15 @@ The videos explaining the execution of the different notebooks can be accessed t
 
 ## Intro to OpenCV and basic binary operations
 
-Open and work with the notebook [IntroOpenCV.ipynb]
+Open and work with the notebook [IntroOpenCV.ipynb](https://github.com/robotics-upo/rva-course-material/blob/master/imageprocessingbasics/IntroOpenCV.ipynb)
 
 The objective is to implement a simple green chroma key to overlay a second image.
 
 
 ## Linear filtering in OpenCV
 
-Open, play and understand the notebook [filtering.iypnb]
+Open, play and understand the notebook [filtering.iypnb](https://github.com/robotics-upo/rva-course-material/blob/master/imageprocessingbasics/filtering.ipynb)
 
 ## Template matching in OpenCV
 
-Open, play and understand the notebook [tempatematching.iypnb]
+Open, play and understand the notebook [tempatematching.iypnb](https://github.com/robotics-upo/rva-course-material/blob/master/imageprocessingbasics/templatematching.ipynb)
