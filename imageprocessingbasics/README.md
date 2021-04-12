@@ -25,4 +25,4 @@ Open, play and understand the notebook [filtering.iypnb](https://github.com/robo
 
 ## Template matching in OpenCV
 
-Open, play and understand the notebook [tempatematching.iypnb](https://github.com/robotics-upo/rva-course-material/blob/master/imageprocessingbasics/templatematching.ipynb)
+Open, play and understand the notebook [templatematching.iypnb](https://github.com/robotics-upo/rva-course-material/blob/master/imageprocessingbasics/templatematching.ipynb)
